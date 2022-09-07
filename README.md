@@ -8,4 +8,5 @@
 - [cargo-watch](https://crates.io/crates/cargo-watch)
 - [cargo-tarpaulin](https://crates.io/crates/cargo-tarpaulin)
 - [cargo-audit](https://crates.io/crates/cargo-audit)
-- [cargo-edit](https://github.com/killercup/cargo-edit)
+- ~~[cargo-edit](https://crates.io/crates/cargo-edit)~~ has been merged into cargo 1.62+ as of cargo-edit 0.10
+- [cargo-expand](https://crates.io/crates/cargo-expand)
